@@ -72,17 +72,4 @@ A comprehensive full-stack expense management system built with React.js fronten
 - **ExchangeRate-API** - Currency conversion
 - **RestCountries API** - Country and currency data
 
-## 📦 Installation & Setup
-
-### Prerequisites
-- Node.js (v14 or higher)
-- npm or yarn package manager
-- Google Cloud account (for OCR features - optional)
-
-### Step 1: Clone Repository
-```bash
-git clone https://github.com/yourusername/expense-management.git
-cd expense-management
-
-<img width="994" height="541" alt="image" src="https://github.com/user-attachments/assets/b3c92750-eb37-4e47-b878-df000c6630a1" />
-
+<img width="994" height="541" alt="image" src="https://github.com/user-attachments/assets/252e1320-542d-4320-8914-a41f28abea20" />
