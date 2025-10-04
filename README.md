@@ -83,3 +83,6 @@ A comprehensive full-stack expense management system built with React.js fronten
 ```bash
 git clone https://github.com/yourusername/expense-management.git
 cd expense-management
+
+<img width="994" height="541" alt="image" src="https://github.com/user-attachments/assets/b3c92750-eb37-4e47-b878-df000c6630a1" />
+
